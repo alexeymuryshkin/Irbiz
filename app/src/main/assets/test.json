@@ -1,0 +1,627 @@
+[
+  {
+    "position": 0,
+    "imageURL": "",
+    "name": "Абылайхан Жусупов",
+    "gender": "male",
+    "olympiad": "rio"
+  }, {
+  "position": 1,
+  "imageURL": "",
+  "name": "Адильбек Ниязымбетов",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 2,
+  "imageURL": "",
+  "name": "Александр Зайчиков",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 3,
+  "imageURL": "",
+  "name": "Полина Репина",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 4,
+  "imageURL": "",
+  "name": "Алмат Кебиспаев",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 5,
+  "imageURL": "",
+  "name": "Арли Чонтей",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 6,
+  "imageURL": "",
+  "name": "Артём Захаров",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 7,
+  "imageURL": "",
+  "name": "Аслан Кахидзе",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 8,
+  "imageURL": "",
+  "name": "Бахтияр Кожатаев",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 9,
+  "imageURL": "",
+  "name": "Берик Абдрахманов",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 10,
+  "imageURL": "",
+  "name": "Биржан Жакыпов",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 11,
+  "imageURL": "",
+  "name": "Василий Левит",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 12,
+  "imageURL": "",
+  "name": "Виталий Худяков",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 13,
+  "imageURL": "",
+  "name": "Владимир Исаченко",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 14,
+  "imageURL": "",
+  "name": "Владислав Яковлев",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 15,
+  "imageURL": "",
+  "name": "Галымжан Усербаев",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 16,
+  "imageURL": "",
+  "name": "Георгий Шейко",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 17,
+  "imageURL": "",
+  "name": "Данияр Елеусинов",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 18,
+  "imageURL": "",
+  "name": "Даулет Шабанбай",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 19,
+  "imageURL": "",
+  "name": "Денис Уланов",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 20,
+  "imageURL": "",
+  "name": "Дмитрий Баландин",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 21,
+  "imageURL": "",
+  "name": "Досжан Картиков",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 22,
+  "imageURL": "",
+  "name": "Елдос Сметов",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 23,
+  "imageURL": "",
+  "name": "Жанибек Алимханулы",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 24,
+  "imageURL": "",
+  "name": "Жансай Смагулов",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 25,
+  "imageURL": "",
+  "name": "Иван Дычко",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 26,
+  "imageURL": "",
+  "name": "Илья Мокрецов",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 27,
+  "imageURL": "",
+  "name": "Кайрат Ералиев",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 28,
+  "imageURL": "",
+  "name": "Кирилл Герасименко",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 29,
+  "imageURL": "",
+  "name": "Максим Раков",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 30,
+  "imageURL": "",
+  "name": "Мамед Ибрагимов",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 31,
+  "imageURL": "",
+  "name": "Анастасия Тулапина",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 32,
+  "imageURL": "",
+  "name": "Ниджат Рагимов",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 33,
+  "imageURL": "",
+  "name": "Сергей Токарницкий",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 34,
+  "imageURL": "",
+  "name": "Нурмахан Тыналиев",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 35,
+  "imageURL": "",
+  "name": "Олжас Саттыбаев",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 36,
+  "imageURL": "",
+  "name": "Пирмаммад Алиев",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 37,
+  "imageURL": "",
+  "name": "Рашид Юнусметов",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 38,
+  "imageURL": "",
+  "name": "Руслан Жапаров",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 39,
+  "imageURL": "",
+  "name": "Султан Дузельбаев",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 40,
+  "imageURL": "",
+  "name": "Фархад Харки",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 41,
+  "imageURL": "",
+  "name": "Юрий Юрков",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 42,
+  "imageURL": "",
+  "name": "Айнур Есбергенова",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 43,
+  "imageURL": "",
+  "name": "Виктория Зябкина",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 44,
+  "imageURL": "",
+  "name": "Галина Воскобоева",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 45,
+  "imageURL": "",
+  "name": "Гюзель Манюрова",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 46,
+  "imageURL": "",
+  "name": "Дарига Шакимова",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 47,
+  "imageURL": "",
+  "name": "Екатерина Руденко",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 48,
+  "imageURL": "",
+  "name": "Елизавета Король",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 49,
+  "imageURL": "",
+  "name": "Жазира Жаппаркуль",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 50,
+  "imageURL": "",
+  "name": "Жайна Шекербекова",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 51,
+  "imageURL": "",
+  "name": "Жансель Дениз",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 52,
+  "imageURL": "",
+  "name": "Жулдыз Эшимова",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 53,
+  "imageURL": "",
+  "name": "Карина Горичева",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 54,
+  "imageURL": "",
+  "name": "Екатерина Ларионова",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 55,
+  "imageURL": "",
+  "name": "Луиза Сайдиева",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 56,
+  "imageURL": "",
+  "name": "Маргарита Елисеева",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 57,
+  "imageURL": "",
+  "name": "Мариан Урдабаева",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 58,
+  "imageURL": "",
+  "name": "Мария Дмитриенко",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 59,
+  "imageURL": "",
+  "name": "Ольга Рыпакова",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 60,
+  "imageURL": "",
+  "name": "Ольга Сафронова",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 61,
+  "imageURL": "",
+  "name": "Отгонцэцэг Галбадрах",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 62,
+  "imageURL": "",
+  "name": "Римма Кашафутдинова",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 63,
+  "imageURL": "",
+  "name": "Сабина Аширбаева",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 64,
+  "imageURL": "",
+  "name": "Светлана Германович",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 65,
+  "imageURL": "",
+  "name": "Флорида Миньянова",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 66,
+  "imageURL": "",
+  "name": "Эльмира Сыздыкова",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 67,
+  "imageURL": "",
+  "name": "Мария Телушкина",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 68,
+  "imageURL": "",
+  "name": "Ярослава Шведова",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 69,
+  "imageURL": "",
+  "name": "Александра Немич",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 70,
+  "imageURL": "",
+  "name": "Александр Емельянов",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 71,
+  "imageURL": "",
+  "name": "Алексей Дергунов",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 72,
+  "imageURL": "",
+  "name": "Андрей Ергучёв",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 73,
+  "imageURL": "",
+  "name": "Андрей Зейц",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 74,
+  "imageURL": "",
+  "name": "Артас Санаа",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 75,
+  "imageURL": "",
+  "name": "Дидар Хамза",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 76,
+  "imageURL": "",
+  "name": "Дмитрий Коблов",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 77,
+  "imageURL": "",
+  "name": "Евгений Алексеев",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 78,
+  "imageURL": "",
+  "name": "Евгений Лабутов",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 79,
+  "imageURL": "",
+  "name": "Иван Иванов",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 80,
+  "imageURL": "",
+  "name": "Илья Голендов",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 81,
+  "imageURL": "",
+  "name": "Михаил Красилов",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 82,
+  "imageURL": "",
+  "name": "Павел Ильяшенко",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 83,
+  "imageURL": "",
+  "name": "Роман Валиев",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 84,
+  "imageURL": "",
+  "name": "Тимур Хайдаров",
+  "gender": "male",
+  "olympiad": "rio"
+}, {
+  "position": 85,
+  "imageURL": "",
+  "name": "Александра Романова",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 86,
+  "imageURL": "",
+  "name": "Анастасия Кудинова",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 87,
+  "imageURL": "",
+  "name": "Анастасия Пилипенко",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 88,
+  "imageURL": "",
+  "name": "Гульжанат Жанатбек",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 89,
+  "imageURL": "",
+  "name": "Диана Айдосова",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 90,
+  "imageURL": "",
+  "name": "Екатерина Смирнова",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 91,
+  "imageURL": "",
+  "name": "Екатерина Эктова",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 92,
+  "imageURL": "",
+  "name": "Елена Потапенко",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 93,
+  "imageURL": "",
+  "name": "Зоя Ананченко",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 94,
+  "imageURL": "",
+  "name": "Инна Клинова",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 95,
+  "imageURL": "",
+  "name": "Ирина Литвиненко",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 96,
+  "imageURL": "",
+  "name": "Ирина Смольникова",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 97,
+  "imageURL": "",
+  "name": "Маргарита Мукашева",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 98,
+  "imageURL": "",
+  "name": "Наталья Сергеева",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 99,
+  "imageURL": "",
+  "name": "Ирина Подойникова",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 100,
+  "imageURL": "",
+  "name": "Элина Михина",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 101,
+  "imageURL": "",
+  "name": "Юлия Рахманова",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 102,
+  "imageURL": "",
+  "name": "Екатерина Немич",
+  "gender": "female",
+  "olympiad": "rio"
+}, {
+  "position": 103,
+  "imageURL": "",
+  "name": "Светлана Голендова",
+  "gender": "female",
+  "olympiad": "rio"
+}
+]

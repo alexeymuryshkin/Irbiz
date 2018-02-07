@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_background"
+    android:orientation="vertical"
+    tools:context="muryshkin.alexey.irbiz.Activity.PlayActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:layout_alignParentLeft="true"
+                android:text="1/30"
+                android:textSize="30dp"
+                android:textColor="#FFFFFF"
+                android:id="@+id/questionNumberTextView"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="10dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="0"
+                android:textSize="40dp"
+                android:textColor="#FFFFFF"
+                android:id="@+id/scoreTextView"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:layout_alignParentRight="true"
+                android:text="00:00"
+                android:textSize="30dp"
+                android:textColor="#FFFFFF"
+                android:id="@+id/timerTextView"
+                />
+
+        </RelativeLayout>
+
+        <muryshkin.alexey.irbiz.ExtendedObjects.NonSwipeableViewPager
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/questionsViewPager"
+            />
+
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/loading_spinner"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:indeterminateTintMode="src_atop"
+        android:indeterminateTint="@android:color/white"
+        android:layout_centerInParent="true"
+        />
+
+</LinearLayout>

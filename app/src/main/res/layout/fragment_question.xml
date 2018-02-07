@@ -1,0 +1,47 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="muryshkin.alexey.irbiz.Fragment.QuestionFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:background="@android:color/white"
+            >
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:minHeight="120dp"
+                android:maxHeight="180dp"
+                android:adjustViewBounds="true"
+                android:background="@android:color/white"
+                android:id="@+id/questionImageView"
+                />
+
+        </RelativeLayout>
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:verticalSpacing="10dp"
+            android:horizontalSpacing="10dp"
+            android:padding="5dp"
+            android:stretchMode="columnWidth"
+            android:divider="@android:color/white"
+            android:fadeScrollbars="false"
+            android:id="@+id/answersListView"
+            />
+
+    </LinearLayout>
+
+</FrameLayout>
